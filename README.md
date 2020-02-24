@@ -3,5 +3,5 @@ Python + R + Tableau project to identify and visualize differences between The 1
 
 For these two albums in particular, the top three most distinguishing variables were:
   - energy
+  - time signature
   - liveness
-  - duration
